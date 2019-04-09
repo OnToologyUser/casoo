@@ -5,7 +5,7 @@ Context Aware System Observation Ontology
 ----
 
 **Name**: casoo  
-**URL**: <https://w3id.org/obs4agri/casoo#>  
+**URL**: <https://w3id.org/casoo#>  
 **Link to**: <https://github.com/Irstea/casoo>  
 
 ### Contact:  
